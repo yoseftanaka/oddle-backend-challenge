@@ -72,4 +72,4 @@ https://openweathermap.org/current
 * Duplicate it to private repository on your Github account (https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)
 * Code. Commit and Push as many times as you want, only the last Pull Request will be graded
 * Create a Pull Request in your private repo and invite us as reviewer
-* Add https://github.com/oddle-developer as collaborator for your repo and add `oddle-developer` as reviewer to your PR
+* Inform us
